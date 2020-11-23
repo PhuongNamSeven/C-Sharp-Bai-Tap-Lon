@@ -1,0 +1,6 @@
+C:\Users\lelou\OneDrive\Desktop\akdjaskmdas\DTO_QuanLyQuayThuoc\bin\Release\DTO_QuanLyQuayThuoc.dll
+C:\Users\lelou\OneDrive\Desktop\akdjaskmdas\DTO_QuanLyQuayThuoc\bin\Release\DTO_QuanLyQuayThuoc.pdb
+C:\Users\lelou\OneDrive\Desktop\akdjaskmdas\DTO_QuanLyQuayThuoc\obj\Release\DTO_QuanLyQuayThuoc.csprojAssemblyReference.cache
+C:\Users\lelou\OneDrive\Desktop\akdjaskmdas\DTO_QuanLyQuayThuoc\obj\Release\DTO_QuanLyQuayThuoc.csproj.CoreCompileInputs.cache
+C:\Users\lelou\OneDrive\Desktop\akdjaskmdas\DTO_QuanLyQuayThuoc\obj\Release\DTO_QuanLyQuayThuoc.dll
+C:\Users\lelou\OneDrive\Desktop\akdjaskmdas\DTO_QuanLyQuayThuoc\obj\Release\DTO_QuanLyQuayThuoc.pdb

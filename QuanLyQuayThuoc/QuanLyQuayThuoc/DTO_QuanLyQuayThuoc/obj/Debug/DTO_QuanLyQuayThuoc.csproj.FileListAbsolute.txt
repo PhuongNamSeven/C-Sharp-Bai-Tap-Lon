@@ -1,0 +1,54 @@
+D:\IUH\IUH_DangHoc\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\bin\Debug\DTO_QuanLyQuayThuoc.dll
+D:\IUH\IUH_DangHoc\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\bin\Debug\DTO_QuanLyQuayThuoc.pdb
+D:\IUH\IUH_DangHoc\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.csprojAssemblyReference.cache
+D:\IUH\IUH_DangHoc\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.csproj.CoreCompileInputs.cache
+D:\IUH\IUH_DangHoc\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.dll
+D:\IUH\IUH_DangHoc\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.pdb
+Z:\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\bin\Debug\DTO_QuanLyQuayThuoc.dll
+Z:\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\bin\Debug\DTO_QuanLyQuayThuoc.pdb
+Z:\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.csprojAssemblyReference.cache
+Z:\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.csproj.CoreCompileInputs.cache
+Z:\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.dll
+Z:\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.pdb
+Z:\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\bin\Debug\DTO_QuanLyQuayThuoc.dll
+Z:\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\bin\Debug\DTO_QuanLyQuayThuoc.pdb
+Z:\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.csprojAssemblyReference.cache
+Z:\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.csproj.CoreCompileInputs.cache
+Z:\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.dll
+Z:\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.pdb
+Z:\Data\IUH\LapTrinhHuongSuKien_NET\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\bin\Debug\DTO_QuanLyQuayThuoc.dll
+Z:\Data\IUH\LapTrinhHuongSuKien_NET\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\bin\Debug\DTO_QuanLyQuayThuoc.pdb
+Z:\Data\IUH\LapTrinhHuongSuKien_NET\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.csprojAssemblyReference.cache
+Z:\Data\IUH\LapTrinhHuongSuKien_NET\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.csproj.CoreCompileInputs.cache
+Z:\Data\IUH\LapTrinhHuongSuKien_NET\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.dll
+Z:\Data\IUH\LapTrinhHuongSuKien_NET\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.pdb
+\\vmware-host\Shared Folders\Data\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\bin\Debug\DTO_QuanLyQuayThuoc.dll
+\\vmware-host\Shared Folders\Data\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\bin\Debug\DTO_QuanLyQuayThuoc.pdb
+\\vmware-host\Shared Folders\Data\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Data\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Data\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.dll
+\\vmware-host\Shared Folders\Data\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.pdb
+D:\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\bin\Debug\DTO_QuanLyQuayThuoc.dll
+D:\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\bin\Debug\DTO_QuanLyQuayThuoc.pdb
+D:\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.csprojAssemblyReference.cache
+D:\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.csproj.CoreCompileInputs.cache
+D:\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.dll
+D:\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.pdb
+C:\Users\lelou\OneDrive\Desktop\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\bin\Debug\DTO_QuanLyQuayThuoc.dll
+C:\Users\lelou\OneDrive\Desktop\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\bin\Debug\DTO_QuanLyQuayThuoc.pdb
+C:\Users\lelou\OneDrive\Desktop\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.csprojAssemblyReference.cache
+C:\Users\lelou\OneDrive\Desktop\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.csproj.CoreCompileInputs.cache
+C:\Users\lelou\OneDrive\Desktop\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.dll
+C:\Users\lelou\OneDrive\Desktop\QuanLyQuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.pdb
+C:\Users\lelou\OneDrive\Desktop\QuayThuoc\DTO_QuanLyQuayThuoc\bin\Debug\DTO_QuanLyQuayThuoc.dll
+C:\Users\lelou\OneDrive\Desktop\QuayThuoc\DTO_QuanLyQuayThuoc\bin\Debug\DTO_QuanLyQuayThuoc.pdb
+C:\Users\lelou\OneDrive\Desktop\QuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.csprojAssemblyReference.cache
+C:\Users\lelou\OneDrive\Desktop\QuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.csproj.CoreCompileInputs.cache
+C:\Users\lelou\OneDrive\Desktop\QuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.dll
+C:\Users\lelou\OneDrive\Desktop\QuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.pdb
+D:\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuayThuoc\DTO_QuanLyQuayThuoc\bin\Debug\DTO_QuanLyQuayThuoc.dll
+D:\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuayThuoc\DTO_QuanLyQuayThuoc\bin\Debug\DTO_QuanLyQuayThuoc.pdb
+D:\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.csprojAssemblyReference.cache
+D:\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.csproj.CoreCompileInputs.cache
+D:\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.dll
+D:\Data\IUH\LapTrinhHuongSuKien_NET\BTLon\QuayThuoc\DTO_QuanLyQuayThuoc\obj\Debug\DTO_QuanLyQuayThuoc.pdb

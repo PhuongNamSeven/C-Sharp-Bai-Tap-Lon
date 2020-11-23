@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QuayThuocBenhVien" Class="QuayThuocDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ZERO;Initial Catalog=QuayThuocBenhVien;Integrated Security=True" SettingsObjectName="DAL_QuanLyQuayThuoc.Properties.Settings" SettingsPropertyName="QuayThuocBenhVienConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Account" Member="Accounts">
+    <Type Name="Account">
+      <Column Name="UserName" Type="System.String" DbType="VarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="DisplayName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="PassWord" Type="System.String" DbType="VarChar(1000) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Thuoc" Member="Thuocs">
+    <Type Name="Thuoc">
+      <Column Name="Ma_Thuoc" Type="System.String" DbType="VarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Ma_NCC" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Ten_Thuoc" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="CongDung_Thuoc" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="DonViTinh_Thuoc" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="DonGia_Thuoc" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NSX_Thuoc" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="HSD_Thuoc" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="SoLuongThuoc" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Thuoc_HoaDon" Member="HoaDons" ThisKey="Ma_Thuoc" OtherKey="Ma_Thuoc" Type="HoaDon" />
+      <Association Name="NhaCungCap_Thuoc" Member="NhaCungCap" ThisKey="Ma_NCC" OtherKey="Ma_NCC" Type="NhaCungCap" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HoaDon" Member="HoaDons">
+    <Type Name="HoaDon">
+      <Column Name="Ma_HD" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Ma_KhachHang" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Ma_Thuoc" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="NgayLap_HD" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="SoLuong_HD" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Loai_HD" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Association Name="Thuoc_HoaDon" Member="Thuoc" ThisKey="Ma_Thuoc" OtherKey="Ma_Thuoc" Type="Thuoc" IsForeignKey="true" />
+      <Association Name="KhachHang_HoaDon" Member="KhachHang" ThisKey="Ma_KhachHang" OtherKey="Ma_KhachHang" Type="KhachHang" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.KhachHang" Member="KhachHangs">
+    <Type Name="KhachHang">
+      <Column Name="Ma_KhachHang" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Ten_KhachHang" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="DiaChi_KhachHang" Type="System.String" DbType="NVarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="Sdt_KhachHang" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="BenhAn_KhachHang" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Association Name="KhachHang_HoaDon" Member="HoaDons" ThisKey="Ma_KhachHang" OtherKey="Ma_KhachHang" Type="HoaDon" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NhaCungCap" Member="NhaCungCaps">
+    <Type Name="NhaCungCap">
+      <Column Name="Ma_NCC" Type="System.String" DbType="VarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Ten_NCC" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="DiaChi_NCC" Type="System.String" DbType="NVarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="Sdt_NCC" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="LoaiThuoc_NCC" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Association Name="NhaCungCap_Thuoc" Member="Thuocs" ThisKey="Ma_NCC" OtherKey="Ma_NCC" Type="Thuoc" />
+    </Type>
+  </Table>
+</Database>

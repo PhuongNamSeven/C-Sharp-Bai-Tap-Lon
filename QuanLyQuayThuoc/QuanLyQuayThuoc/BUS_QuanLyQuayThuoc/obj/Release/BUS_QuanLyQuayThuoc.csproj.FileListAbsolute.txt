@@ -1,0 +1,12 @@
+C:\Users\lelou\OneDrive\Desktop\akdjaskmdas\BUS_QuanLyQuayThuoc\bin\Release\BUS_QuanLyQuayThuoc.dll
+C:\Users\lelou\OneDrive\Desktop\akdjaskmdas\BUS_QuanLyQuayThuoc\bin\Release\BUS_QuanLyQuayThuoc.pdb
+C:\Users\lelou\OneDrive\Desktop\akdjaskmdas\BUS_QuanLyQuayThuoc\bin\Release\DAL_QuanLyQuayThuoc.dll
+C:\Users\lelou\OneDrive\Desktop\akdjaskmdas\BUS_QuanLyQuayThuoc\bin\Release\DTO_QuanLyQuayThuoc.dll
+C:\Users\lelou\OneDrive\Desktop\akdjaskmdas\BUS_QuanLyQuayThuoc\bin\Release\DAL_QuanLyQuayThuoc.pdb
+C:\Users\lelou\OneDrive\Desktop\akdjaskmdas\BUS_QuanLyQuayThuoc\bin\Release\DAL_QuanLyQuayThuoc.dll.config
+C:\Users\lelou\OneDrive\Desktop\akdjaskmdas\BUS_QuanLyQuayThuoc\bin\Release\DTO_QuanLyQuayThuoc.pdb
+C:\Users\lelou\OneDrive\Desktop\akdjaskmdas\BUS_QuanLyQuayThuoc\obj\Release\BUS_QuanLyQuayThuoc.csprojAssemblyReference.cache
+C:\Users\lelou\OneDrive\Desktop\akdjaskmdas\BUS_QuanLyQuayThuoc\obj\Release\BUS_QuanLyQuayThuoc.csproj.CoreCompileInputs.cache
+C:\Users\lelou\OneDrive\Desktop\akdjaskmdas\BUS_QuanLyQuayThuoc\obj\Release\BUS_QuanLyQuayThuoc.csproj.CopyComplete
+C:\Users\lelou\OneDrive\Desktop\akdjaskmdas\BUS_QuanLyQuayThuoc\obj\Release\BUS_QuanLyQuayThuoc.dll
+C:\Users\lelou\OneDrive\Desktop\akdjaskmdas\BUS_QuanLyQuayThuoc\obj\Release\BUS_QuanLyQuayThuoc.pdb
